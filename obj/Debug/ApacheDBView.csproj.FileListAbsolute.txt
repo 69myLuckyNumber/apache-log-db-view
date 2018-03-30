@@ -1,0 +1,10 @@
+D:\Stuff\CoreProjects\ApacheDBView\ApacheDBView\bin\Debug\ApacheDBView.exe.config
+D:\Stuff\CoreProjects\ApacheDBView\ApacheDBView\bin\Debug\ApacheDBView.exe
+D:\Stuff\CoreProjects\ApacheDBView\ApacheDBView\bin\Debug\ApacheDBView.pdb
+D:\Stuff\CoreProjects\ApacheDBView\ApacheDBView\obj\Debug\ApacheDBView.csprojResolveAssemblyReference.cache
+D:\Stuff\CoreProjects\ApacheDBView\ApacheDBView\obj\Debug\ApacheDBView.Form1.resources
+D:\Stuff\CoreProjects\ApacheDBView\ApacheDBView\obj\Debug\ApacheDBView.Properties.Resources.resources
+D:\Stuff\CoreProjects\ApacheDBView\ApacheDBView\obj\Debug\ApacheDBView.csproj.GenerateResource.Cache
+D:\Stuff\CoreProjects\ApacheDBView\ApacheDBView\obj\Debug\ApacheDBView.csproj.CoreCompileInputs.cache
+D:\Stuff\CoreProjects\ApacheDBView\ApacheDBView\obj\Debug\ApacheDBView.exe
+D:\Stuff\CoreProjects\ApacheDBView\ApacheDBView\obj\Debug\ApacheDBView.pdb
